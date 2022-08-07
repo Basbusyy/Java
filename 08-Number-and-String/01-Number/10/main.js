@@ -1,0 +1,1 @@
+const convertDegreeToRad = (deg) => deg *Math.PI/180 ; 
